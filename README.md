@@ -1,61 +1,55 @@
 # Analytics Portfolio
 
-Welcome! I'm Irene, a Marketing Analyst with experience in revenue operations and business analytics. This repository documents my journey to deepen my technical analytics skills through hands-on projects and continuous learning.
+Welcome! I'm Irene, a Marketing Analyst with experience in revenue operations and business analytics. This repository documents my journey to strengthen my technical analytics skills through hands-on projects and continuous learning.
 
-## Goals
+## Goal
 
-Over the next 90 days, I am focused on developing practical skills in:
+My goal is to combine my background in marketing and revenue operations with technical analytics skills to solve real business problems using data.
+
+Over the next 90 days, I am developing practical skills in:
 
 - Microsoft Fabric (DP-600)
 - Power BI
 - SQL
 - Python
-- Data modeling
-- Business analytics
-- Financial modeling fundamentals
+- Data Modeling
+- Business Analytics
+- Financial Modeling Fundamentals
+
+---
 
 ## Portfolio Projects
 
-### 01. Marketing Performance Dashboard
-**Business Question:** Which marketing channels generate the highest return on investment?
-
-**Skills:**
-- Power BI
-- DAX
-- Data Modeling
-- Marketing Analytics
+| Project | Status |
+|---------|--------|
+| Marketing Performance Dashboard | 🚧 Planning |
+| Sales Performance Dashboard | 🚧 Planning |
+| Customer Segmentation | 🚧 Planning |
 
 ---
 
-### 02. Sales Performance Dashboard
-**Business Question:** What factors are driving revenue growth?
+## Learning
 
-**Skills:**
-- SQL
-- Power BI
-- Business Intelligence
+Alongside my projects, I am documenting my progress in:
 
----
-
-### 03. Customer Segmentation
-**Business Question:** Who are our highest-value customers?
-
-**Skills:**
-- Python
-- Customer Analytics
-- Data Visualization
+- DP-600 study notes
+- Python practice
+- SQL practice
+- Analytics concepts
+- Daily reflections
 
 ---
 
-## Learning Resources
+## Repository Structure
 
-Throughout this journey, I am studying:
+```text
+analytics-portfolio/
+├── 01-marketing-dashboard/
+├── 02-sales-dashboard/
+├── 03-customer-segmentation/
+├── python-practice/
+├── sql-practice/
+└── notes/
+```
 
-- Microsoft Fabric (DP-600)
-- Python
-- SQL
-- Analytics concepts and business case studies
-
-## Mission
-
-My goal is to combine my background in marketing and revenue operations with technical analytics skills to solve real business problems through data.
+Thank you for visiting my portfolio!
